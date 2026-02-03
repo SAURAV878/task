@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "priority": "high",
+    "category": "Shopping",
+    "dueDate": "2026-02-05",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "BUy Gaming Computer",
+    "priority": "high",
+    "category": "Shopping",
+    "dueDate": "2026-02-05",
+    "completed": false
+  }
+]
